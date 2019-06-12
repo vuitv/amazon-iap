@@ -1,21 +1,20 @@
+
 {
-  "name": "amazon-iap",
+  "name": "react-native-amazon-iap",
   "version": "1.0.0",
-  "description": "React Native Amazon In App Purchase",
-  "main": "src/index.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/vuitv/amazon-iap.git"
-  },
   "keywords": [
-    "Amazon",
-    "IAP",
-    "React",
-    "Native"
+    "react-native"
   ],
-  "author": "Tang Vui <tangvuicntt@gmail.com>",
-  "license": "MIT"
+  "author": "",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+
+  }
 }
